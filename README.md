@@ -1,4 +1,4 @@
-Hey there! 👋,
+#Hey there! 👋,
 I'm a Computer Science student with a strong interest in mobile app development and software engineering. I specialize in building cross-platform applications using Flutter and Dart, and I also enjoy working with **Java and C++ to develop efficient and scalable solutions.
 
 In addition to coding, I have a creative side — I’m passionate about graphic design, which helps me bring a polished visual touch to the apps and interfaces I create. I believe great design and great functionality go hand in hand.
@@ -9,7 +9,7 @@ Let’s connect and collaborate on something awesome! 🚀
 
 ---
 
-Tech Stack,
+##Tech Stack,
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
