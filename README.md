@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a Computer Science student with a strong interest in mobile app development and software engineering. I specialize in building cross-platform applications using Flutter and Dart, and I also enjoy working with **Java and C++ to develop efficient and scalable solutions.
+I'm a Computer Science student with a strong interest in mobile app development and software engineering. I specialize in building cross-platform applications using Flutter and Dart, and I also enjoy working with Java and C++ to develop efficient and scalable solutions.
 
 In addition to coding, I have a creative side — I’m passionate about graphic design, which helps me bring a polished visual touch to the apps and interfaces I create. I believe great design and great functionality go hand in hand.
 
